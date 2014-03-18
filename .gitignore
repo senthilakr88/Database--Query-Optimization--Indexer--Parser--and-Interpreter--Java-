@@ -1,0 +1,8 @@
+bin/
+data/
+other/
+sqlfile/
+.classpath
+.project
+.metadata/
+.DS_Store
